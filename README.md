@@ -6,3 +6,5 @@
   * Initial version
 * 2025-02-21 -- 1.0.1
   * Fix retries logic on flow
+* 2025-08-15 -- 1.0.3
+  * Fix extension buster & add 2captcha
