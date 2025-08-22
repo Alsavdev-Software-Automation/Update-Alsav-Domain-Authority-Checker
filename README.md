@@ -8,3 +8,5 @@
   * Fix retries logic on flow
 * 2025-08-15 -- 1.0.3
   * Fix extension buster & add 2captcha
+* 2025-08-22 -- 1.0.4
+  * Fix buster & update build.js
