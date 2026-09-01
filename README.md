@@ -14,3 +14,6 @@
   * New Service Source
   * Disable free source
   * Refactor for effecient
+* 2026-09-01 -- 1.1.1
+  * Change core concept into API request based
+  * Update architecture to v2 for the UI 
