@@ -17,3 +17,5 @@
 * 2026-09-01 -- 1.1.1
   * Change core concept into API request based
   * Update architecture to v2 for the UI 
+* 2026-09-02 -- 1.1.3
+  * Add checker quota each apikey as report
